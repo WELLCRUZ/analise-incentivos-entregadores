@@ -2,10 +2,6 @@
 
 Estudo de caso sobre a operação de entregas entre **janeiro e setembro de 2026**. A pergunta central: **por que investir mais em incentivos não melhorou o SLA?**
 
-<img width="1274" height="594" alt="image" src="https://github.com/user-attachments/assets/a706c385-2da7-4290-8008-7fd10314c49a" />
-<img width="1004" height="595" alt="image" src="https://github.com/user-attachments/assets/8460496d-ce12-41aa-801d-7db8522ac0f0" />
-<img width="1025" height="601" alt="image" src="https://github.com/user-attachments/assets/6db9b86c-67a0-470f-b3dc-e597facc8bc8" />
-
 > ⚠️ Estudo de caso desenvolvido em processo seletivo. Todos os dados são **fictícios**.
 
 ---
