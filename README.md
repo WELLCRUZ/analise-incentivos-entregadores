@@ -65,7 +65,10 @@ Menos promoções, **pagamento por esforço**, foco no **período noturno** e **
 
 ## 📸 Prévia
 
-![Dashboard](imagens/dashboard_1.png)
+<img width="1225" height="538" alt="image" src="https://github.com/user-attachments/assets/de96208b-0a28-4e33-b588-b530e01acb3d" />
+<img width="902" height="504" alt="image" src="https://github.com/user-attachments/assets/accafeb3-8059-44a2-90ea-1df11cd53a3c" />
+<img width="906" height="501" alt="image" src="https://github.com/user-attachments/assets/c83d0b3e-0605-4d2a-bf5b-b6a298b0ae2a" />
+
 
 ## 👤 Autor
 
