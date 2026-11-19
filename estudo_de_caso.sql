@@ -72,7 +72,7 @@ ORDER BY mes;
 -- Q1c. Evolução mensal dos incentivos
 -- Objetivo: mostrar a evolução do número de promoções, participantes,
 -- investimento, taxa de conclusão e tipos ao longo do ano.
-use giross_case;
+use case_estregas;
 SELECT
   DATE_FORMAT(i.data_inicio, '%Y-%m') AS mes,
   COUNT(DISTINCT i.id) AS qtd_promocoes,
@@ -98,7 +98,7 @@ ORDER BY mes;
 -- Q1d. SLA e disponibilidade por cidade e mês
 -- Objetivo: identificar se a degradação do SLA é generalizada ou
 -- concentrada em alguma cidade.
-USE GIROSS_CASE;
+USE case_estregas;
 SELECT
   p.cidade,
   DATE_FORMAT(p.data_criacao, '%Y-%m') AS mes,
